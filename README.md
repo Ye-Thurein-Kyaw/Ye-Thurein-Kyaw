@@ -8,7 +8,7 @@
 
 - 💼 Junior Mobile Developer at [Global Wave Techonology](https://www.linkedin.com/company/global-wave-technology/) [May 2023- Present]
 - 💼 Flutter Developer (Part-time) [Nov 2023 - Sep 2024]
-- 💼 Mobile Developer at [SC Coder]()[Sep 2024 - Present]
+- 💼 Mobile Developer at [SC Coder](Part-time)[Sep 2024 - May 2025]
 
 ## 👀 Interests
 - Mobile App Development (iOS & Android)
