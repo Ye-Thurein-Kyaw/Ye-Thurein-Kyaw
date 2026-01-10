@@ -4,6 +4,14 @@
 ![Followers](https://img.shields.io/github/followers/Ye-Thurein-Kyaw?style=social)
 ![Stars](https://img.shields.io/github/stars/Ye-Thurein-Kyaw?style=social)
 
+## 🐍 GitHub Contribution Snake
+
+<!-- ![Snake animation](https://github.com/Ye-Thurein-Kyaw/Ye-Thurein-Kyaw/blob/output/github-contribution-grid-snake.svg) -->
+
+<!-- Dark mode -->
+![Snake dark](https://github.com/Ye-Thurein-Kyaw/Ye-Thurein-Kyaw/blob/output/github-contribution-grid-snake-dark.svg)
+
+
 ## **About me**
 
 - 💼 Junior Mobile Developer at [Global Wave Techonology](https://www.linkedin.com/company/global-wave-technology/) [May 2023- Dec 2024]
