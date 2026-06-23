@@ -32,8 +32,9 @@
 
 ## 📫 How to Reach Me
 - Email: thureinkyaw131771@gmail.com
-- LinkedIn: [Ye Thurein Kyaw](https://www.linkedin.com/in/ye-thurein-kyaw-aaa192266/)
-- Facebook: [Thurein](https://www.facebook.com/profile.php?id=100047341581534&mibextid=LQQJ4d)
+- LinkedIn : [Ye Thurein Kyaw](https://www.linkedin.com/in/ye-thurein-kyaw-aaa192266/)
+- Facebook : [Thurein](https://www.facebook.com/profile.php?id=100047341581534&mibextid=LQQJ4d)
+- portfolio: [Ye Thurein Kyaw](https://ye-thurein-kyaw-portfolio.vercel.app)
 
 <h2 align="center"> 🔭 Languages and Tools</h2>
 
